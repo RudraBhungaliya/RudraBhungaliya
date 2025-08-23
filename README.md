@@ -10,9 +10,6 @@
   <a href="https://cplusplus.com/" target="_blank" title="C++">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
   </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" title="C Language">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   </a>

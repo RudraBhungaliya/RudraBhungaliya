@@ -14,6 +14,12 @@
   </span>
 </a>
   <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
+  alt="React Logo" 
+  width="140"
+/>
+
+  <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" 
   alt="Node.js Logo" 
   width="48"

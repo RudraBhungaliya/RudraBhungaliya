@@ -16,7 +16,7 @@
   <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
   alt="React Logo" 
-  width="140"
+  width="48"
 />
 
   <img 

@@ -1,8 +1,18 @@
-<p align="center">
-  <a href="https://rudrabhungaliya.github.io/system-flow/">
-    <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/gig.gif" width="900"/>
-  </a>
-</p>
+<table style="border: none;">
+<tr style="border: none;">
+
+<td width="50%" align="center" style="border: none;">
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/gig.gif" width="85%" style="border-radius: 10px;" />
+</td>
+
+<td width="50%" align="center" style="border: none;">
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/cyberpunk.gif" width="85%" style="border-radius: 10px;" />
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ### 🛠️ Technologies and Tools :
 <p>

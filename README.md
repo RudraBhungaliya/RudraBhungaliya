@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rudrabhungaliya.github.io/system-flow/">
-    <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/system-flow.gif" width="900"/>
+    <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/gig.gif" width="900"/>
   </a>
 </p>
 

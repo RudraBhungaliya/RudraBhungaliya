@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+
+body {
+  margin: 0;
+  background: #0d1117;
+  font-family: monospace;
+  overflow: hidden;
+}
+
+/* main layout */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 0 8%;
+  position: relative;
+}
+
+/* LEFT SIDE (video/image) */
+.video-box {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+video {
+  width: 90%;
+  border-radius: 12px;
+  box-shadow: 0 0 40px rgba(88,166,255,0.15);
+}
+
+/* RIGHT SIDE (code/text) */
+.code {
+  width: 40%;
+  color: #58a6ff;
+  font-size: 18px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+/* cursor */
+.cursor {
+  display: inline-block;
+  width: 8px;
+  height: 18px;
+  background: #58a6ff;
+  margin-left: 3px;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+/* floating particles */
+.particle {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: #58a6ff;
+  opacity: 0.4;
+  animation: float linear infinite;
+}
+
+@keyframes float {
+  from { transform: translateY(100vh); }
+  to { transform: translateY(-10vh); }
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+  <!-- LEFT: video -->
+  <div class="video-box">
+    <video autoplay loop muted playsinline>
+      <source src="gif.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <!-- RIGHT: animated code -->
+  <div class="code" id="code"></div>
+
+</div>
+
+<script>
+
+/* typing text */
+const text = `> boot system...
+> loading core modules...
+> initializing runtime...
+> establishing secure channels...
+> system online ✔`;
+
+let i = 0;
+
+function type() {
+  if (i <= text.length) {
+    document.getElementById("code").innerHTML =
+      text.substring(0, i) + '<span class="cursor"></span>';
+    i++;
+    setTimeout(type, 25);
+  }
+}
+
+type();
+
+/* particles */
+for (let i = 0; i < 40; i++) {
+  let p = document.createElement("div");
+  p.className = "particle";
+  p.style.left = Math.random() * 100 + "vw";
+  p.style.animationDuration = (4 + Math.random() * 4) + "s";
+  document.body.appendChild(p);
+}
+
+</script>
+
+</body>
+</html>

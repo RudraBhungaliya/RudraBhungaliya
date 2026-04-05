@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RudraBhungaliya/banner/main/system-flow.gif" />
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/system-flow.gif" alt="System Architecture" />
 </p>
 
 ### 🛠️ Technologies and Tools :

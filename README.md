@@ -1,12 +1,12 @@
-<table style="border: none;">
-<tr style="border: none;">
+<table>
+<tr>
 
-<td width="50%" align="center" style="border: none;">
-  <img src="https://raw.githubusercontent.com/RudraBhungaliya/main/gif.gif" width="85%" style="border-radius: 10px;" />
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/RudraBhungaliya/main/gif.gif" width="400"/>
 </td>
 
-<td width="50%" align="center" style="border: none;">
-  <img src="https://raw.githubusercontent.com/RudraBhungaliya/main/cyberpunk.gif" width="85%" style="border-radius: 10px;" />
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/RudraBhungaliya/main/cyberpunk.gif" width="400"/>
 </td>
 
 </tr>

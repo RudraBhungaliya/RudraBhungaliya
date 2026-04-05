@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RudraBhungaliya/RudraBhungaliya/blob/main/banner.png" alt="Profile Banner">
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/banner/main/system-flow.gif" />
 </p>
 
 ### 🛠️ Technologies and Tools :

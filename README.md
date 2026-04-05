@@ -2,11 +2,11 @@
 <tr style="border: none;">
 
 <td width="50%" align="center" style="border: none;">
-  <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/gig.gif" width="85%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/main/gif.gif" width="85%" style="border-radius: 10px;" />
 </td>
 
 <td width="50%" align="center" style="border: none;">
-  <img src="https://raw.githubusercontent.com/RudraBhungaliya/system-flow/main/cyberpunk.gif" width="85%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/main/cyberpunk.gif" width="85%" style="border-radius: 10px;" />
 </td>
 
 </tr>

@@ -14,6 +14,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraBhungaliya/RudraBhungaliya/output/snake-dark.svg" />
+</p>
+
+<br/>
+
 ### 🛠️ Technologies and Tools :
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48"/></a><a href="https://www.typescriptlang.org/" target="_blank">

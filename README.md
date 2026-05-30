@@ -52,7 +52,7 @@
   <a href="https://x.com/metarudra28">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
   </a>
-  <a href="https://www.instagram.com/metarudra28">
+  <a href="https://www.instagram.com/rudrabhungaliya">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
   <a href="https://codeforces.com/profile/metarudra28">

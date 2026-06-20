@@ -1,4 +1,4 @@
-<table>
+<!-- <table>
 <tr>
 
 <td width="50%" align="center">
@@ -10,7 +10,7 @@
 </td>
 
 </tr>
-</table>
+</table> -->
 
 <br/>
 
